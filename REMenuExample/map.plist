@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>387x</key>
+	<integer>1547</integer>
+	<key>387y</key>
+	<integer>2219</integer>
+	<key>434x</key>
+	<real>1098</real>
+	<key>434y</key>
+	<integer>1960</integer>
+	<key>479x</key>
+	<integer>1148</integer>
+	<key>479y</key>
+	<integer>1734</integer>
+	<key>615-MRLx</key>
+	<integer>2160</integer>
+	<key>615-MRLy</key>
+	<integer>1814</integer>
+	<key>937x</key>
+	<integer>1798</integer>
+	<key>937y</key>
+	<integer>1816</integer>
+	<key>ANCAP HALLx</key>
+	<integer>1932</integer>
+	<key>ANCAP HALLy</key>
+	<integer>2382</integer>
+	<key>ARTSx</key>
+	<integer>948</integer>
+	<key>ARTSy</key>
+	<integer>2109</integer>
+	<key>ASx</key>
+	<integer>1406</integer>
+	<key>ASy</key>
+	<real>2259</real>
+	<key>AS BIKEx</key>
+	<integer>954</integer>
+	<key>AS BIKEy</key>
+	<integer>1834</integer>
+	<key>ARBORx</key>
+	<integer>1418</integer>
+	<key>ARBORy</key>
+	<real>1808</real>
+	<key>AASx</key>
+	<integer>995</integer>
+	<key>AASy</key>
+	<integer>1496</integer>
+	<key>BIOL2x</key>
+	<integer>2008</integer>
+	<key>BIOL2y</key>
+	<integer>2208</integer>
+	<key>BRDAx</key>
+	<integer>1946</integer>
+	<key>BRDAy</key>
+	<integer>1824</integer>
+	<key>BRENx</key>
+	<integer>2108</integer>
+	<key>BRENy</key>
+	<integer>2000</integer>
+	<key>BSIFx</key>
+	<integer>1920</integer>
+	<key>BSIFy</key>
+	<integer>2168</integer>
+	<key>BUCHNx</key>
+	<integer>1712</integer>
+	<key>BUCHNy</key>
+	<integer>1584</integer>
+	<key>CAMPB HALLx</key>
+	<integer>1594</integer>
+	<key>CAMPB HALLy</key>
+	<integer>1414</integer>
+	<key>CHEMx</key>
+	<integer>1990</integer>
+	<key>CHEMy</key>
+	<integer>1572</integer>
+	<key>ELLSNx</key>
+	<integer>1594</integer>
+	<key>ELSSNy</key>
+	<integer>1582</integer>
+	<key>EMBAR HALLx</key>
+	<integer>80</integer>
+	<key>EMBAR HALLy</key>
+	<real>2195</real>
+	<key>ENGR2x</key>
+	<integer>2172</integer>
+	<key>ENGR2y</key>
+	<integer>1640</integer>
+	<key>ESBx</key>
+	<integer>2178</integer>
+	<key>ESBy</key>
+	<integer>1534</integer>
+	<key>ELINGx</key>
+	<integer>2400</integer>
+	<key>ELINGy</key>
+	<integer>1570</integer>
+	<key>EVENT CENTERx</key>
+	<integer>630</integer>
+	<key>EVENT CENTERy</key>
+	<integer>1868</integer>
+	<key>GIRVx</key>
+	<integer>1336</integer>
+	<key>GIRVy</key>
+	<integer>1968</integer>
+	<key>HFHx</key>
+	<integer>2186</integer>
+	<key>HFHy</key>
+	<integer>1878</integer>
+	<key>HSSBx</key>
+	<integer>826</integer>
+	<key>HSSBy</key>
+	<integer>1920</integer>
+	<key>IV THEAx</key>
+	<integer>148</integer>
+	<key>IV THEAy</key>
+	<integer>2316</integer>
+	<key>ICAx</key>
+	<integer>818</integer>
+	<key>ICAy</key>
+	<real>1476</real>
+	<key>KERRx</key>
+	<integer>1368</integer>
+	<key>KERRy</key>
+	<integer>1736</integer>
+	<key>KOHNx</key>
+	<integer>2322</integer>
+	<key>KNHNy</key>
+	<integer>1742</integer>
+	<key>LIBx</key>
+	<integer>1554</integer>
+	<key>LIBy</key>
+	<integer>1900</integer>
+	<key>LSBx</key>
+	<integer>1840</integer>
+	<key>LSBy</key>
+	<integer>2238</integer>
+	<key>MANZx</key>
+	<integer>533</integer>
+	<key>MANZy</key>
+	<real>2770</real>
+	<key>MLABx</key>
+	<integer>1908</integer>
+	<key>MLABy</key>
+	<integer>2961</integer>
+	<key>MUSICx</key>
+	<integer>1308</integer>
+	<key>MUSICy</key>
+	<integer>2102</integer>
+	<key>MUSIC LLCHx</key>
+	<integer>1304</integer>
+	<key>MUSIC LLCHy</key>
+	<integer>2172</integer>
+	<key>NOBLEx</key>
+	<integer>1842</integer>
+	<key>NOBLEy</key>
+	<integer>2094</integer>
+	<key>NHx</key>
+	<integer>1346</integer>
+	<key>NHy</key>
+	<integer>1588</integer>
+	<key>PHELPx</key>
+	<integer>1726</integer>
+	<key>PHELPy</key>
+	<integer>1390</integer>
+	<key>PSB-Nx</key>
+	<integer>1844</integer>
+	<key>PSB-Ny</key>
+	<integer>1588</integer>
+	<key>PSB-Sx</key>
+	<integer>2000</integer>
+	<key>PSB-Sy</key>
+	<integer>1732</integer>
+	<key>PSYCHx</key>
+	<integer>1614</integer>
+	<key>PSYCHy</key>
+	<real>2212</real>
+	<key>RECENx</key>
+	<integer>965</integer>
+	<key>RECENy</key>
+	<integer>987</integer>
+	<key>RGYMx</key>
+	<integer>988</integer>
+	<key>RGYMy</key>
+	<integer>1408</integer>
+	<key>SAASBx</key>
+	<integer>1299</integer>
+	<key>SAASBy</key>
+	<real>1403</real>
+	<key>SAN MIGELx</key>
+	<integer>1316</integer>
+	<key>SAN MIGELy</key>
+	<integer>2526</integer>
+	<key>SAN NICx</key>
+	<integer>1440</integer>
+	<key>SAN NICy</key>
+	<integer>2658</integer>
+	<key>SAN RAFELx</key>
+	<integer>488</integer>
+	<key>SAN RAFELy</key>
+	<integer>2408</integer>
+	<key>SANTA CRUZx</key>
+	<integer>1864</integer>
+	<key>SANTA CRUZy</key>
+	<integer>2586</integer>
+	<key>SANTA ROSAx</key>
+	<integer>1598</integer>
+	<key>SANTA ROSAy</key>
+	<integer>2486</integer>
+	<key>SHx</key>
+	<integer>1240</integer>
+	<key>SHy</key>
+	<integer>1828</integer>
+	<key>STORKEx</key>
+	<integer>1128</integer>
+	<key>STORKEy</key>
+	<integer>2094</integer>
+	<key>STU HLTHx</key>
+	<integer>506</integer>
+	<key>STU HLTHy</key>
+	<integer>1570</integer>
+	<key>SRBx</key>
+	<integer>464</integer>
+	<key>SRBy</key>
+	<integer>2046</integer>
+	<key>TD-Ex</key>
+	<integer>826</integer>
+	<key>TD-Ey</key>
+	<integer>2064</integer>
+	<key>TD-Wx</key>
+	<integer>668</integer>
+	<key>TD-Wy</key>
+	<integer>2130</integer>
+	<key>UCENx</key>
+	<integer>1170</integer>
+	<key>UCENy</key>
+	<integer>2274</integer>
+	<key>WEBBx</key>
+	<integer>1820</integer>
+	<key>WEBBy</key>
+	<integer>1938</integer>
+	<key>WMNS CENTRx</key>
+	<integer>464</integer>
+	<key>WMNS CENTRy</key>
+	<integer>2046</integer>
+	<key>CARRILLOx</key>
+	<integer>446</integer>
+	<key>CARRILLOy</key>
+	<integer>2562</integer>
+	<key>DLGx</key>
+	<integer>1632</integer>
+	<key>DLGy</key>
+	<integer>2634</integer>
+	<key>ORTEGAx</key>
+	<integer>1330</integer>
+	<key>ORTEGAy</key>
+	<integer>2384</integer>
+	<key>SSMSx</key>
+	<integer>940</integer>
+	<key>SSMSy</key>
+	<integer>1656</integer>
+	<key>CUSx</key>
+	<integer>526</integer>
+	<key>CUSy</key>
+	<integer>888</integer>
+	<key>CHEADLEx</key>
+	<integer>1418</integer>
+	<key>CHEADLEy</key>
+	<integer>1444</integer>
+	<key>CCSx</key>
+	<integer>1511</integer>
+	<key>CCSy</key>
+	<integer>2373</integer>
+	<key>429x</key>
+	<integer>1558</integer>
+	<key>429y</key>
+	<integer>2256</integer>
+	<key>411x</key>
+	<integer>1540</integer>
+	<key>411y</key>
+	<integer>1900</integer>
+	<key>599x</key>
+	<integer>992</integer>
+	<key>599y</key>
+	<integer>1972</integer>
+	<key>477x</key>
+	<integer>1110</integer>
+	<key>477y</key>
+	<integer>1894</integer>
+	<key>408x</key>
+	<integer>1684</integer>
+	<key>408y</key>
+	<integer>2064</integer>
+	<key>346x</key>
+	<integer>1684</integer>
+	<key>346y</key>
+	<integer>2042</integer>
+	<key>300x</key>
+	<integer>1144</integer>
+	<key>300y</key>
+	<integer>1816</integer>
+	<key>569x</key>
+	<integer>1838</integer>
+	<key>569y</key>
+	<integer>2036</integer>
+	<key>546x</key>
+	<integer>1976</integer>
+	<key>546y</key>
+	<integer>1936</integer>
+	<key>CTCx</key>
+	<integer>1370</integer>
+	<key>CTCy</key>
+	<real>1508</real>
+	<key>MCCx</key>
+	<integer>1395</integer>
+	<key>MCCy</key>
+	<integer>2302</integer>
+	<key>CSx</key>
+	<integer>986</integer>
+	<key>CSy</key>
+	<integer>1966</integer>
+</dict>
+</plist>

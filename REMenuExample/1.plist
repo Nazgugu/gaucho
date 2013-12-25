@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Date</key>
+		<date>2013-10-28T15:00:00Z</date>
+		<key>Detail</key>
+		<string>(v) Available in Carrillo at breakfast.</string>
+		<key>Title</key>
+		<string>Cream Of Wheat</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>2013-10-28T15:00:00Z</date>
+		<key>Detail</key>
+		<string>(v) Available in Carrillo at breakfast.</string>
+		<key>Title</key>
+		<string>Scrambled Egg Whites</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>2013-10-28T15:00:00Z</date>
+		<key>Detail</key>
+		<string>(v) Available in Carrillo at breakfast.</string>
+		<key>Title</key>
+		<string>Make Your Own Waffle</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>2013-10-28T15:00:00Z</date>
+		<key>Detail</key>
+		<string>(vgn) Available in Carrillo at breakfast.</string>
+		<key>Title</key>
+		<string>Oatmeal</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>2013-10-28T15:00:00Z</date>
+		<key>Detail</key>
+		<string>(vgn) Available in Carrillo at breakfast.</string>
+		<key>Title</key>
+		<string>Diced Potatoes</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>2013-10-28T15:00:00Z</date>
+		<key>Detail</key>
+		<string>(v) Available in Carrillo at breakfast.</string>
+		<key>Title</key>
+		<string>Cage Free Eggs Scrambled</string>
+	</dict>
+</array>
+</plist>
